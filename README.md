@@ -3,9 +3,6 @@
 ## Abstract
 This assignment focuses on analyzing the Wikipedia Article Network related to the Chameleon topic. It employs page-to-page networks, where each article is a node, and the connections between them are edges representing relationships. Information networks are crucial for decision-making, knowledge discovery, and understanding complex data interconnections. The study compares methodologies from two other research projects on Amazon's Co-Purchasing Network and GitHub user interactions. By implementing the Louvain algorithm, the research identifies community structures and influential nodes within the Chameleon dataset. The analysis includes network graph visualization, exploration of network characteristics, and centrality measures and community detection. The results reveal a complex and decentralized structure, highlighting well-defined communities and influential nodes in the dataset. Future work is addressed encompassing additional datasets, subset visualization, link prediction, and k-core cliques analysis. In conclusion, the study enhances our understanding of the Chameleon dataset's network dynamics, influential communities, robust structures, and potential applications in broader network analysis research.
 
-To make the important sections bold in your GitHub README, use Markdown syntax for bold text (`**` or `__`). Below is the modified version of your provided text, with key terms and headings bolded for clarity:
-
----
 
 # **Discussion and Interpretation of Results**
 
